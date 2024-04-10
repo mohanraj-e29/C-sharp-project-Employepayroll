@@ -1,0 +1,13 @@
+E:\mohanraj.dotnet\empyayroll\empyayroll\bin\Debug\empyayroll.exe.config
+E:\mohanraj.dotnet\empyayroll\empyayroll\bin\Debug\empyayroll.exe
+E:\mohanraj.dotnet\empyayroll\empyayroll\bin\Debug\empyayroll.pdb
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.csprojResolveAssemblyReference.cache
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.emp.resources
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.emp1.resources
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.Form1.resources
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.Properties.Resources.resources
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.csproj.GenerateResource.Cache
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.exe
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.pdb
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.emp2.resources
+E:\mohanraj.dotnet\empyayroll\empyayroll\obj\Debug\empyayroll.Form2.resources
